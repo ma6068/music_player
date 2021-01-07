@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music player</string>
+    <string name="notif_title">MiniApp2 Active</string>
+    <string name="notif_text">Tap to return to the MiniApp2</string>
+    <string name="channel_name">Foreground service channel</string>
+    <string name="channel_desc">Posts notifications related to the media player service</string>
+</resources>
